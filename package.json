@@ -1,0 +1,19 @@
+{
+  "name": "fem-sw-pwas",
+  "version": "0.1.0",
+  "description": "Repo for frontendmasters course by kyle simpson on service workers and pwas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luismaldonadov/fem-sw-pwas.git"
+  },
+  "author": "Luis Maldonado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luismaldonadov/fem-sw-pwas/issues"
+  },
+  "homepage": "https://github.com/luismaldonadov/fem-sw-pwas#readme"
+}
